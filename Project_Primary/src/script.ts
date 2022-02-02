@@ -10,3 +10,8 @@ function calcular(n1: number,n2: number){
 botao.addEventListener('click', function(){
     res.innerHTML=calcular(+num1.value,+num2.value).toString();
 });
+
+
+/* 3 principais tipagens*/
+
+let nome: string='Bonieki';
