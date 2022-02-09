@@ -14,8 +14,10 @@ botao.addEventListener('click', function(){
 
 /* 3 principais tipagens*/
 
-let nome: string[]= ['Bonieki', 'Lacerda'];
-
+let name: string[]= ['Bonieki', 'Lacerda'];
 let idade: number[]= [90,15];
+
+
+
 
 
